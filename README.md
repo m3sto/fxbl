@@ -1,6 +1,6 @@
-# FXBL - Next-Generation Cryptographic Protocol
 
-<img src="icon.png" alt="FXBL Logo" width="200" height="200"/>
+
+<img src="icon.png" alt="FXBL Logo" width="200" height="200"/> # FXBL - Future eXceptional Blockchain-Layer Security Protocol
 
 **Version:** 1.0  
 **Developed by:** m3sto  
@@ -67,12 +67,6 @@ auto decrypted = nc.decrypt(sk, ct);
 - **Addition on Ciphertexts**: Add encrypted numbers without decryption
 - **Multiplication on Ciphertexts**: Multiply encrypted data
 - **Arbitrary Computation**: Run functions on encrypted data
-
-### Original Design
-- ❌ No AES
-- ❌ No RSA  
-- ❌ No ECC
-- ✅ 100% Novel Cryptographic Primitives
 
 ## 📊 Comparison
 
