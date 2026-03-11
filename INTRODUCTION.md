@@ -2,6 +2,9 @@
 
 **Version:** 1.0  
 **Developed by:** m3sto  
+
+<img src="icon.png" alt="FXBL Logo" width="150" height="150">
+
 **License:** MIT  
 **Status:** Research Prototype
 
