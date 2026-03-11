@@ -1,6 +1,7 @@
 
 
-<img src="icon.png" alt="FXBL Logo" width="200" height="200"/> # FXBL - Future eXceptional Blockchain-Layer Security Protocol
+<img src="icon.png" alt="FXBL Logo" width="200" height="200"/> 
+# FXBL - Future eXceptional Blockchain-Layer Security Protocol
 
 **Version:** 1.0  
 **Developed by:** m3sto  
