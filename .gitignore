@@ -1,0 +1,27 @@
+# Build files
+build/
+*.o
+*.so
+*.a
+*.dylib
+*.exe
+compile_commands.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test files
+tests/*.out
+tests/*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Documentation build
+docs/_build/
