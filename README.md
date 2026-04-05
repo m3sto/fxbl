@@ -124,7 +124,7 @@ Copyright (c) 2026 m3sto
 
 **Developed by m3sto**  
 Version: 1.0.0-alpha  
-Contact: research@fxbl.example.com
+Contact: m3sto.wolfly@gmail.com
 
 ---
 
